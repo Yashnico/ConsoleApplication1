@@ -1,0 +1,5 @@
+Customer Namejaat, Customer Age19, Mode of Payementupi
+Product -- frooti, Price -- 20, Quantity -- 3
+Product -- Munch, Price -- 5, Quantity -- 2
+.......................................................
+
